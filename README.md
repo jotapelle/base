@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jotapelle
+- 🧑🏻‍💻 I'm a .NET developer
+- 👀 I’m interested in videogames, sports, culture and mindfullness
+- 🌱 I’m currently learning React
+- 📫 Reach me on info@jordiperez.es
